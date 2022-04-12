@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: baessler-lab-logo.png
+    image: ""
 ---
 <br>
 
