@@ -4,7 +4,7 @@ widget_id: welcome
 headless: true
 weight: 10
 title: Baessler-Lab@UKW
-hero_media: welcome.jpg
+hero_media: baessler-lab-logo.jpg
 design:
   columns: "1"
   css_style: null
